@@ -6,4 +6,4 @@ Lmao I won't put it online for now, but if you want to check it out do:
 2. Run `npm install`
 3. Run `npm start`
 
-When I start job searching, this will be added to my personal website. 
+When I start job searching, this will be added to my personal website I guess. 
